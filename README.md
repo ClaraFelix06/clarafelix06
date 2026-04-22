@@ -1,4 +1,4 @@
-![Header](github-header-banner.png)
+![Header](github_banner_clarafelix06.png)
 
 <br/>  
 
